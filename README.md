@@ -57,7 +57,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository
    - Open your terminal and run:
-          
+          git clone https://github.com/SravanthiChouturi/WEATHER-APPLICATION.git
      
 
 2. Navigate to the project directory
